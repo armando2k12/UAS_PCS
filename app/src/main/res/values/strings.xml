@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Github API</string>
+
+    <string name="search">Search</string>
+    <string name="search_hint">Cari disini...</string>
+    <string name="item_login">Item Login</string>
+    <string name="description">Description</string>
+    <string name="iv_avatar">Image View Avatar</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="http_www_google_com">http://www.google.com</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
